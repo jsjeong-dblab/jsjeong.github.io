@@ -72,6 +72,14 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
+    - role: Ph.D. in Computer Science and Engineering
+      time: 2019 - present
+      company: Pohang University of Science of Technology (POSTECH)
+
+    - role: B.S. in Computer Science and Engineering
+      time: 2015 - 2019
+      company: Pohang University of Science of Technology (POSTECH)
+
     - role: Intern
       time: 2018.06 - 2018.08
       company: Netmarble, Seoul Korea
