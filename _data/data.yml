@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Hyuk-kyu Kang
-    tagline: PhD Student in Computer Science 
+    tagline: PhD Student in Database & Data Mining Lab
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hkkang@dblab.postech.ac.kr
-#    phone: 010-xxxx-xxxx
+   phone: 010-9733-2428
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
 #    xing: alandoe
@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. Student in Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
+      I am a Ph.D. Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
       
 education:
     - degree: Ph.D in Computer Science
@@ -123,13 +123,7 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-     
-      
-       
-        
-         
-          
+#     intro: 
           
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
@@ -163,7 +157,7 @@ publications:
 #       - name: Sketch & Photoshop
 #         level: 60%
 
-Reference:
+skills:
     title: Reference
     intro: |
         Prof. Wook-Shin Han (Ph.D. Advisor), Full Professor, POSTECH, South Korea (wshan@dblab.postech.ac.kr) 
