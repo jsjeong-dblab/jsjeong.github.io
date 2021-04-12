@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. Student in Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH).
+      I am a Ph.D. Student in Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
       
 education:
     - degree: Ph.D in Computer Science
@@ -114,6 +114,14 @@ experiences:
 
 publications:
     title: Publications
+    intro: |
+     
+      
+       
+        
+         
+          
+          
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
