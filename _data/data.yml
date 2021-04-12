@@ -83,8 +83,8 @@ experiences:
     - role: Intern
       time: 2018.6 - 2018.8
       company: Netmarble, Seoul Korea
-      details: |
-          I was in the AI research team. I developed AI agents for mobile strategy games
+#       details: |
+#           I was in the AI research team. I developed AI agents for mobile strategy games
 #         Describe your role here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 #         Cum sociis natoque penatibus et magnis dis parturient montes,
