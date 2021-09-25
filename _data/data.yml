@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jsjeong@dblab.postech.ac.kr
-    phone: 010-xxxx-xxxx
+#     phone: 010-xxxx-xxxx
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
 #    xing: alandoe
@@ -38,8 +38,10 @@ sidebar:
 
     languages:
       - idiom: Korean
+        level: Native
 
       - idiom: English
+        level: Professional
 
 career-profile:
     title: About Me
@@ -126,7 +128,7 @@ publications:
 #      bibendum fringilla a eu lectus.
     papers:
       - title: Signal Based Device-Free Tracking
-        link: "#"
+#         link: "#"
         authors: Jisung Jeong and Jongwon Yoon
         conference: In Proceedings of the Twentieth ACM International Symposium on Mobile Ad Hoc Networking and Computing (Mobihoc ’19)
 
