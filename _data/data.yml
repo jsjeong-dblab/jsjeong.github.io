@@ -130,10 +130,16 @@ publications:
 
     papers:
     
-      - title: Signal Based Device-Free Tracking
+      - title: "Signal Based Device-Free Tracking"
 #         link: "#"
         authors: Jisung Jeong and Jongwon Yoon
         conference: In Proceedings of the Twentieth ACM International Symposium on Mobile Ad Hoc Networking and Computing (Mobihoc ’19)
+
+     - title: "Learned Cardinality Estimation: An In-depth Study"
+       link: "https://sites.google.com/view/sigmod2022cardest/%ED%99%88"
+       authors: Kim, K., Jeong, J., Seo, I., Han, W., Choi, K., and Chong, J.
+       conference: In Proc., 48th Int’l Conf. on Management of Data, ACM SIGMOD, Philadelphia, PA, USA, June 2022
+
 
 # skills:
 #     title: Skills &amp; Proficiency
