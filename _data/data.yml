@@ -129,10 +129,10 @@ publications:
 
 
     papers:
-      - title: "Learned Cardinality Estimation: An In-depth Study"
-       link: "https://sites.google.com/view/sigmod2022cardest/%ED%99%88"
+      - title: Learned Cardinality Estimation: An In-depth Study
+       link: https://sites.google.com/view/sigmod2022cardest/%ED%99%88
        authors: Kim, K., Jeong, J., Seo, I., Han, W., Choi, K., and Chong, J.
-       conference: In Proc., 48th Int'l Conf. on Management of Data, ACM SIGMOD, Philadelphia, PA, USA, June 2022
+       conference: In Proc., 48th Int`l Conf. on Management of Data, ACM SIGMOD, Philadelphia, PA, USA, June 2022
     
       - title: Signal Based Device-Free Tracking
 #         link: "#"
